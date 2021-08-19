@@ -1,4 +1,4 @@
-PRODUCTS ARE CREATED BY ANHDUY VST - USE TO MAKE THE VIDEO CLIP PLEASE CREATE THE ORIGINAL VIDEO SOURCE AND THE AUTHOR, THANKS ! When using this RDP I suggest you:
+When using this RDP I suggest you:
 
 UPDATE 06/8/2021
 
@@ -18,4 +18,4 @@ Get your RDP login IP at: https://dashboard.ngrok.com/endpoints/status
 
 You can watch detailed video tutorials at:https://youtu.be/j_AUr6TzPPw
 
-Subscribe to my channel to update interesting technology tips: https://youtube.com/channel/UCOOJyl7kJMNMvk_RLVAUtkQ
+
